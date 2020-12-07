@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/blockone/static/js/main.ad87e7b3.chunk.js",
+    "main.js.map": "/blockone/static/js/main.ad87e7b3.chunk.js.map",
+    "runtime-main.js": "/blockone/static/js/runtime-main.3b3915ab.js",
+    "runtime-main.js.map": "/blockone/static/js/runtime-main.3b3915ab.js.map",
+    "static/js/2.901312d4.chunk.js": "/blockone/static/js/2.901312d4.chunk.js",
+    "static/js/2.901312d4.chunk.js.map": "/blockone/static/js/2.901312d4.chunk.js.map",
+    "index.html": "/blockone/index.html",
+    "static/js/2.901312d4.chunk.js.LICENSE.txt": "/blockone/static/js/2.901312d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b3915ab.js",
+    "static/js/2.901312d4.chunk.js",
+    "static/js/main.ad87e7b3.chunk.js"
+  ]
+}
